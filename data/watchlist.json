@@ -1,0 +1,802 @@
+{
+  "races": [
+    {
+      "id": "AL-07",
+      "state": "AL",
+      "statePostal": "AL",
+      "office": "House",
+      "district": "7",
+      "label": "Alabama 7th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Terri A. Sewell",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Ammie Akin",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "CA-04",
+      "state": "CA",
+      "statePostal": "CA",
+      "office": "House",
+      "district": "4",
+      "label": "California 4th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Eric Jones",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "CA-19",
+      "state": "CA",
+      "statePostal": "CA",
+      "office": "House",
+      "district": "19",
+      "label": "California 19th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Jimmy Panetta",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Peter Verbica",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "CA-28",
+      "state": "CA",
+      "statePostal": "CA",
+      "office": "House",
+      "district": "28",
+      "label": "California 28th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Judy Chu",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "April Verlato",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "CA-34",
+      "state": "CA",
+      "statePostal": "CA",
+      "office": "House",
+      "district": "34",
+      "label": "California 34th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Jimmy Gomez",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Angela Gonzalez-Torres",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "CA-41",
+      "state": "CA",
+      "statePostal": "CA",
+      "office": "House",
+      "district": "41",
+      "label": "California 41st District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Linda T. Sanchez",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Mitch Clemmons",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "FL-04",
+      "state": "FL",
+      "statePostal": "FL",
+      "office": "House",
+      "district": "4",
+      "label": "Florida 4th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Aaron Bean",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "LaShonda Holloway",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "FL-17",
+      "state": "FL",
+      "statePostal": "FL",
+      "office": "House",
+      "district": "17",
+      "label": "Florida 17th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "W. Gregory Steube",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Matthew Montavon",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "IL-10",
+      "state": "IL",
+      "statePostal": "IL",
+      "office": "House",
+      "district": "10",
+      "label": "Illinois 10th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Bradley Scott Schneider",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Carl Lambrecht",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "IL-16",
+      "state": "IL",
+      "statePostal": "IL",
+      "office": "House",
+      "district": "16",
+      "label": "Illinois 16th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Darin LaHood",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Paul Nolley",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "IN-02",
+      "state": "IN",
+      "statePostal": "IN",
+      "office": "House",
+      "district": "2",
+      "label": "Indiana 2nd District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Rudy Yakym",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Jamee Decio",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "KS-04",
+      "state": "KS",
+      "statePostal": "KS",
+      "office": "House",
+      "district": "4",
+      "label": "Kansas 4th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Ron Estes",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Katy Tyndell",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "MA-01",
+      "state": "MA",
+      "statePostal": "MA",
+      "office": "House",
+      "district": "1",
+      "label": "Massachusetts 1st District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Richard E. Neal",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Nadia Milleron",
+          "party": "I",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "MN-07",
+      "state": "MN",
+      "statePostal": "MN",
+      "office": "House",
+      "district": "7",
+      "label": "Minnesota 7th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Michelle Fischbach",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Erik Osberg",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "MO-08",
+      "state": "MO",
+      "statePostal": "MO",
+      "office": "House",
+      "district": "8",
+      "label": "Missouri 8th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Jason Smith",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Chris Reichard",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "NC-03",
+      "state": "NC",
+      "statePostal": "NC",
+      "office": "House",
+      "district": "3",
+      "label": "North Carolina 3rd District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Gregory F. Murphy",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Raymond Smith",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "NE-03",
+      "state": "NE",
+      "statePostal": "NE",
+      "office": "House",
+      "district": "3",
+      "label": "Nebraska 3rd District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Adrian Smith",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Becky Stille",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "NV-04",
+      "state": "NV",
+      "statePostal": "NV",
+      "office": "House",
+      "district": "4",
+      "label": "Nevada 4th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Steven Horsford",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Cody Whipple",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "NY-03",
+      "state": "NY",
+      "statePostal": "NY",
+      "office": "House",
+      "district": "3",
+      "label": "New York 3rd District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Thomas R. Suozzi",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Michael LiPetri Jr.",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "NY-11",
+      "state": "NY",
+      "statePostal": "NY",
+      "office": "House",
+      "district": "11",
+      "label": "New York 11th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Nicole Malliotakis",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Michael DeCillis",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "NY-24",
+      "state": "NY",
+      "statePostal": "NY",
+      "office": "House",
+      "district": "24",
+      "label": "New York 24th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Claudia Tenney",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Alissa Ellman",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "OH-07",
+      "state": "OH",
+      "statePostal": "OH",
+      "office": "House",
+      "district": "7",
+      "label": "Ohio 7th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Max L. Miller",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Brian Poindexter",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "OH-15",
+      "state": "OH",
+      "statePostal": "OH",
+      "office": "House",
+      "district": "15",
+      "label": "Ohio 15th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Mike Carey",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Don Leonard",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "PA-01",
+      "state": "PA",
+      "statePostal": "PA",
+      "office": "House",
+      "district": "1",
+      "label": "Pennsylvania 1st District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Brian K. Fitzpatrick",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Bob Harvie",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "PA-02",
+      "state": "PA",
+      "statePostal": "PA",
+      "office": "House",
+      "district": "2",
+      "label": "Pennsylvania 2nd District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Brendan F. Boyle",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Jessica Arriaga",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "PA-11",
+      "state": "PA",
+      "statePostal": "PA",
+      "office": "House",
+      "district": "11",
+      "label": "Pennsylvania 11th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Lloyd Smucker",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Nancy Mannion",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "PA-16",
+      "state": "PA",
+      "statePostal": "PA",
+      "office": "House",
+      "district": "16",
+      "label": "Pennsylvania 16th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Mike Kelly",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Justin Wagner",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "TN-08",
+      "state": "TN",
+      "statePostal": "TN",
+      "office": "House",
+      "district": "8",
+      "label": "Tennessee 8th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "David Kustoff",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Heidi Kuhn",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "TX-01",
+      "state": "TX",
+      "statePostal": "TX",
+      "office": "House",
+      "district": "1",
+      "label": "Texas 1st District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Nathaniel Moran",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Yolanda Prince",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "TX-24",
+      "state": "TX",
+      "statePostal": "TX",
+      "office": "House",
+      "district": "24",
+      "label": "Texas 24th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Beth Van Duyne",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Kevin Burge",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "UT-02",
+      "state": "UT",
+      "statePostal": "UT",
+      "office": "House",
+      "district": "2",
+      "label": "Utah 2nd District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Blake D. Moore",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Peter Crosby",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "VA-08",
+      "state": "VA",
+      "statePostal": "VA",
+      "office": "House",
+      "district": "8",
+      "label": "Virginia 8th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Donald S. Beyer Jr.",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Tony Sabio",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "WA-01",
+      "state": "WA",
+      "statePostal": "WA",
+      "office": "House",
+      "district": "1",
+      "label": "Washington 1st District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Suzan K. DelBene",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Mary Silva",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "WI-04",
+      "state": "WI",
+      "statePostal": "WI",
+      "office": "House",
+      "district": "4",
+      "label": "Wisconsin 4th District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Gwen Moore",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Tim Rogers",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "WV-01",
+      "state": "WV",
+      "statePostal": "WV",
+      "office": "House",
+      "district": "1",
+      "label": "West Virginia 1st District",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Carol D. Miller",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Vince George",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "KS-SEN",
+      "state": "KS",
+      "statePostal": "KS",
+      "office": "Senate",
+      "district": null,
+      "label": "Kansas Senate",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Roger Marshall",
+          "party": "R",
+          "incumbent": true
+        },
+        {
+          "name": "Adam Hamilton",
+          "party": "D",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "NM-SEN",
+      "state": "NM",
+      "statePostal": "NM",
+      "office": "Senate",
+      "district": null,
+      "label": "New Mexico Senate",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Ben Ray Lujan",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Larry Marker",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "id": "VA-SEN",
+      "state": "VA",
+      "statePostal": "VA",
+      "office": "Senate",
+      "district": null,
+      "label": "Virginia Senate",
+      "ddhqUrl": "",
+      "candidates": [
+        {
+          "name": "Mark Warner",
+          "party": "D",
+          "incumbent": true
+        },
+        {
+          "name": "Bert Mizusawa",
+          "party": "R",
+          "incumbent": false
+        }
+      ]
+    }
+  ]
+}

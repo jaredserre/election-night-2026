@@ -1,0 +1,9 @@
+{
+  "electionDate": "2026-11-03",
+  "resultsType": "live",
+  "refreshSeconds": 60,
+  "nbc": {
+    "resultsUrl": "",
+    "note": "Optional override. Leave blank unless NBC publishes a different public 2026 results URL; you can also set the GitHub repository variable NBC_RESULTS_URL."
+  }
+}
